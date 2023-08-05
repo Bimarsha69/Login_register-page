@@ -15,11 +15,7 @@ This project aims to create a simple and user-friendly login and register form u
 ## Social Media
 
 Connect with us on social media for updates and discussions:
-
-- [Instagram](https://www.instagram.com/your_username) ![Instagram Icon](https://example.com/instagram_icon.png)
-- [Discord](https://discord.gg/your_invite) ![Discord Icon](https://example.com/discord_icon.png)
-- [Facebook](https://www.facebook.com/your_page) ![Facebook Icon](https://example.com/facebook_icon.png)
-
+You Will Get Them Soon.
 ## Getting Started
 
 1. Clone the repository.
